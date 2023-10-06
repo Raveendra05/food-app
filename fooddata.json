@@ -1,0 +1,161 @@
+[
+  {
+    "category_name": "biryani/rice",
+    "name": "chicken fried rice",
+    "img": "https://images.unsplash.com/photo-1551326844-4df70f78d0e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoaWNrZW4lMjBmcmllZCUyMHJpY2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+    "options": [
+      {
+        "half": 340,
+        "full": 500
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "biryani/rice",
+    "name": "veg fried rice",
+    "img": "https://images.hindustantimes.com/img/2022/07/22/1600x900/v_1658480077730_1658480088062_1658480088062.jpg",
+    "options": [
+      {
+        "half": 500,
+        "full": 1000
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "biryani/rice",
+    "name": "jeera fried rice",
+    "img": "https://media.istockphoto.com/id/609930740/photo/jeera-rice-cumin-rice.jpg?s=170667a&w=0&k=20&c=yQeua7F6by3hDNPr0bLxvlXf3_UixbF2M4B_AUUSB54=",
+    "options": [
+      {
+        "half": 340,
+        "full": 500
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "biryani/rice",
+    "name": "basmati fried rice",
+    "img": "https://cdn.zeebiz.com/sites/default/files/2023/07/26/253087-untitled-design-2023-07-26t075329659.jpg",
+    "options": [
+      {
+        "half": 220,
+        "full": 400
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "starter",
+    "name": "chilli panner",
+    "img": "https://media.istockphoto.com/id/1325272041/photo/green-peas-or-matar-paneer-curry.webp?b=1&s=170667a&w=0&k=20&c=F1rfvmAyRUwxply1TG0z-Q-h26Tsm5OWFCPA9I-Xnl0=",
+    "options": [
+      {
+        "half": 140,
+        "full": 200
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "starter",
+    "name": "panner 65",
+    "img": "https://images.pexels.com/photos/9609838/pexels-photo-9609838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "options": [
+      {
+        "half": 100,
+        "full": 200
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "starter",
+    "name": "chicken-tikka",
+    "img": "https://spicecravings.com/wp-content/uploads/2020/01/Chicken-Tikka-2.jpg",
+    "options": [
+      {
+        "half": 300,
+        "full": 550
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "starter",
+    "name": "panner tikka",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIBzGv7_RmwSZBUZ-rQ0M5UO6stGzHHUrxA&usqp=CAU",
+        "options": [
+      {
+        "half": 280,
+        "full": 550
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "pizza",
+    "name": "corn pizza",
+    "img": "https://lh3.googleusercontent.com/bGbqcQeJaHQ3H7ar9fhe3DgBwcPk6gWRYwCou-EIeNs8RpJIdlduVz7avLsKIZ6VVLZwrrd-sdnV7Er1zcNXl14R-gYCmY1eS7nmzbj0=w512-rw",
+    "options": [
+      {
+        "regular": 150,
+        "medium": 250,
+        "large": 500
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "pizza",
+    "name": "cheese pizza",
+    "img": "https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.webp?b=1&s=170667a&w=0&k=20&c=27qSFEznalRWqZ5iAgm4fnM6u_TgIqsgUWb3qLTn-Hk=",
+    "options": [
+      {
+        "regular": 250,
+        "medium": 350,
+        "large": 550
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "pizza",
+    "name": "garlic naan pizza",
+    "img": "https://cdn.idntimes.com/content-images/community/2022/02/fromandroid-e8ee058309f5fdcd9657d4a2538365da.jpg",
+    "options": [
+      {
+        "regular": 150,
+        "medium": 175,
+        "large": 300
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "drinks",
+    "name": "red bull",
+    "img": "https://cdn.pixabay.com/photo/2018/04/08/14/46/red-bull-3301415_1280.jpg",
+    "options": [
+      {
+        "half": 120,
+        "full": 340
+      }
+    ],
+    "description": "made by best hotel faculty"
+  },
+  {
+    "category_name": "drinks",
+    "name": "cold coffee",
+    "img": "https://myfoodstory.com/wp-content/uploads/2022/04/Cold-Coffee-3-Ways-1.jpg",
+    "options": [
+      {
+        "half": 150,
+        "full": 300
+      }
+    ],
+    "description": "made by best hotel faculty"
+  }
+]
